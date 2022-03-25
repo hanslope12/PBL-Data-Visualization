@@ -8,4 +8,4 @@ Group members
 Aidan Abat
 Edwin Fortaleza
 Hans Lope
-Stand Huerto
+Stan Huerto
